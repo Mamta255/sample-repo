@@ -1,0 +1,38 @@
+h1 {
+    background-color: #24a19c;
+    color: white;
+    border-radius: 10%;
+    text-align: center
+}
+
+body {  
+    background-color: #fe91ca; 
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
+}
+
+img {
+    background-color: #24a19c;
+    border-bottom: 10px solid saddlebrown;
+    border-top-left-radius: 50%;
+    border-top-right-radius: 50%;
+    width: 100px;
+    height: 100px;
+    float: left
+}
+
+ol {
+    color: aquamarine;
+}
+
+div {
+    background-color: yellow
+}
+
+.image-list {
+    background-color: wheat
+}
+
+#ordered-list {
+    color: black
+}
+
